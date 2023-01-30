@@ -68,5 +68,6 @@
   </Target>
   <ItemGroup>
     <Build Include="Tables\Table1.sql" />
+    <Build Include="Tables\Table2.sql" />
   </ItemGroup>
 </Project>
