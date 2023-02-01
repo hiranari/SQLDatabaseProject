@@ -1,6 +1,6 @@
 CREATE TABLE [dbo].[Table2]
 (
   [Id] INT NOT NULL PRIMARY KEY,
+  [Age] INT,
   [Name] NVARCHAR NOT NULL,
-  [Age] INT NOT NULL,
 )
